@@ -1,0 +1,1 @@
+{"version":3,"file":"audio-worklet-dev-module-url-C7kts-WI.js","names":[],"sources":["../src/audio-worklet-dev-module-url.ts"],"sourcesContent":["export const NOISE_SUPPRESSION_AUDIO_WORKLET_DEV_MODULE_URL =\n  \"/node_modules/@workadventure/noise-suppression/dist/assets/audio-worklet-processor.js\";\n"],"mappings":";AAAA,IAAa,IACX"}
